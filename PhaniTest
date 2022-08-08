@@ -1,1 +1,32 @@
-HI Hello this is phaneendra
+Git Configure
+git config --global 
+git config --global -e
+UserName&email
+git config --global user.name "phani"
+git config --global user.email "phani@gmail.com"
+
+GitList
+git config --list
+
+help
+git help --global
+
+Working Directory
+|Git add
+Staging Area
+|git commit
+Repository .git folder
+|git push
+Remote Repisitory
+
+cloning from remote repository
+git clone url
+git add 
+git status
+git commit
+git push origin master
+
+
+
+
+

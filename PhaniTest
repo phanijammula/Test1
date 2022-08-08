@@ -26,7 +26,7 @@ git status
 git commit
 git push origin master
 
-
+git 4.15 commit changes
 
 
 

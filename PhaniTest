@@ -29,4 +29,17 @@ git push origin master
 git 4.50 commit changes 
 
 
+$  git push -u origin ops-102
+$ git remote add origin https://github.com/phanijammula/pullfromlocal.git
+
+Branch creation
+git checkout -b ops-101
+
+
+Ignore Files
+vi .gitignore
+
+
+
+
 

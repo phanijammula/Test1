@@ -39,6 +39,9 @@ git checkout -b ops-101
 Ignore Files
 vi .gitignore
 
+vi CODEOWNERS
+
+
 
 
 
